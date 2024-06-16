@@ -11,7 +11,7 @@ const shapes = [
   "circle",
   "rhombus",
 ];
-const colors = ["#01D2FD", "#FFC700", "#FE9F12", "#06D0C7"];
+const colors = ["#01D2FD", "#26C485", "#FFC700", "#FF7912", "#FF4B3E"];
 const boxes = document.querySelectorAll(".container div");
 
 const generateArt = () => {
